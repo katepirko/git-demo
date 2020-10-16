@@ -1,11 +1,11 @@
-#README for HomeTask1 on EPAM Online Python course
+# README for HomeTask1 on EPAM Online Python course
 
-##1. PEP8
+## 1. PEP8
 I've got acquainted with the standarts of PEP8
 
 ---
 
-##2. Python program
+## 2. Python program
 I've written a program for calculating area of triangle with given sides
 ```
 """
